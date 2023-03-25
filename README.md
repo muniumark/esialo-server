@@ -2,7 +2,7 @@
 
 # Esialo Planetarium
 
-*Esialo* Samia (Luhya subgroup) word for Planet.
+*Esialo* is the Samia (Luhya subgroup) word for Planet.
 
 **Esialo Planetarium* is a Web App for astronomy fans that will house blog posts, astronomy events, rockect events, and astronomy images.
 
@@ -17,6 +17,7 @@ Using Python Flask, React and py-test
 ## Deployment 
 
 Deploying to Heroku
+https://esialoplanetarium.herokuapp.com/
 
 ## Contributing
 
