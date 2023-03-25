@@ -1,2 +1,28 @@
 #ignore __pycache__ folder
 __pycache__
+
+#Flask_Server
+flask_Server/__pycache__
+
+# React_Server
+# dependencies
+react_server/node_modules
+react_server/.pnp
+react_server/.pnp.js
+
+# testing
+react_server/coverage
+
+# production
+react_server/build
+
+# misc
+react_server/.DS_Store
+react_server/.env.local
+react_server/.env.development.local
+react_server/.env.test.local
+react_server/.env.production.local
+
+react_server/npm-debug.log*
+react_server/yarn-debug.log*
+react_server/yarn-error.log*
